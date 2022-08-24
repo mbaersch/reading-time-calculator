@@ -2,5 +2,5 @@ homepage: "https://www.markus-baersch.de"
 documentation: "https://github.com/mbaersch/reading-time-calculator#readme"
 versions:
   # Latest version
-  - sha: 236902815b9d7b19c759d27ce517b01530dcb1eb
+  - sha: e42beff6e4ebe9b7cf0ef4938f11146d07b2b80f
     changeNotes: Initial release.
