@@ -1,5 +1,12 @@
-# Reading Time Calculator (reading-time-calculator)
-Google Tag Manager Custom Variable Template for calculating reading time of text or DOM element
+# Reading Time Calculator 
+
+**Custom Variable Template for Google Tag Manager**
+
+Variable Template for calculating reading time for a text or DOM element content
+
+![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-submitted-orange) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/reading-time-calculator) ![License](https://img.shields.io/github/license/mbaersch/reading-time-calculator)
+
+---
 
 ## Usage
 - find your main content DOM element that contains all relevant content in your source code 
