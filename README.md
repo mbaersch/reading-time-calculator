@@ -4,7 +4,7 @@
 
 Variable Template for calculating reading time for a text or DOM element content
 
-![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-submitted-orange) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/reading-time-calculator) ![License](https://img.shields.io/github/license/mbaersch/reading-time-calculator)
+[![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-published-green)](https://tagmanager.google.com/gallery/#/owners/mbaersch/templates/reading-time-calculator) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/reading-time-calculator) ![License](https://img.shields.io/github/license/mbaersch/reading-time-calculator)
 
 ---
 
